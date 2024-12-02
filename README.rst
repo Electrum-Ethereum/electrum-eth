@@ -11,7 +11,7 @@ Electrum Ethereum (ETH)
   :Language: Python (>= 3.8)
   :Original Author: Neil Booth
 
-Electrum Ripple is a secure, fast, and lightweight wallet for XRP, designed to optimize transaction speed while maintaining security.  
+**Electrum Ethereum** is a secure, decentralized wallet for managing your Ethereum and ERC20 tokens. With its lightweight architecture, you can quickly access your funds and interact with smart contracts.  
 
 Features  
 =============
