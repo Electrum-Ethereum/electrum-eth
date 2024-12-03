@@ -4,7 +4,7 @@
     :target: https://coveralls.io/github/spesmilo/electrumx
 
 ===============================================
-Electrum Ethereum (ETH)
+Electrum Ethereum (ETH) Wallet
 ===============================================
 
   :Licence: MIT
